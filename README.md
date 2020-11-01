@@ -1,7 +1,7 @@
 # DongWhaPharms-Renewal-Responsive-Web-Site
 <b>[개인프로젝트] ~2019.04.24 작업 (웹 표준 검사 완료)</b> <br/><br/>
 직접 기획, 디자인한 결과물을 바탕으로 템플릿 사용 없이 웹표준에 맞도록 HTML, Css, JavaScript, J-Query, 미디어 쿼리를 사용하여 
-반응형 사이트로 백지에서 부터 직접 작성하였습니다.https://github.com/chj93/DongWhaPharms-Renewal-Responsive-Web-Site/blob/master/README.md
+반응형 사이트로 백지에서 부터 직접 작성하였습니다.
 
 <b>Purpose | </b>   브랜드의 전통성과 기업이념을 강조<br/>
 <b>Concept | </b>   역사 속의 동화제약<br/>
